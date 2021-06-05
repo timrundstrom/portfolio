@@ -26,10 +26,3 @@ https://github.com/timrundstrom/Conquest
 Languages:
 - Python
 
-## Paradisfyllan:
-(On KTH's local github, project can be provided on request)  
-https://gits-15.sys.kth.se/warner/INDA-Projektuppgift   
-2021, DD1349 Projektuppgift i introduktion till datalogi, KTH Stockholm  
-  
-Languages:  
-- Java
